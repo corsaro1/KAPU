@@ -32,7 +32,6 @@ and has included in exe resources the [Json.NET library](https://github.com/Jame
 
 ###  Credits
 A special thank to gr33ndrag0n for his help in solving a TLS 1.2 issue when communicating with his node
-and for having suggested me the name WAW
 https://github.com/Gr33nDrag0n69
 
 
